@@ -1,2 +1,2 @@
-# praktekmsib3
-Ini project bersama yang dibuat untuk pelatihan msib batch 3.
+# PraktekMSIB3
+Project bersama ini dibuat untuk pelatihan MSIB Batch 3.
